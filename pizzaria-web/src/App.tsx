@@ -11,7 +11,7 @@ type CartItem = {
   observation?: string
 }
 
-const API_URL = 'https://erp-hamburgueria.onrender.com'
+const API_URL = import.meta.env.VITE_API_URL || 'https://hamburgueria-api-1.onrender.com'
 
 function App() {
 
