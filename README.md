@@ -6,7 +6,8 @@ Aplicação fullstack para gerenciamento de pedidos de uma hamburgueria, permiti
 
 ## 🚀 Acesse o projeto
 
-- 🔗 Frontend: https://hamburgueriaapi5.vercel.app/
+- 🔗 Frontend usuário: https://hamburgueriaapi5.vercel.app/
+- 🔗 Frontend Admin: https://hamburgueriaapi5.vercel.app/admin
 - 🔗 Backend (API): https://hamburgueria-api-1.onrender.com
 
 ---
